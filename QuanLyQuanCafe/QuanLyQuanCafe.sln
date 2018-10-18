@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyQuanCafe", "QuanLyQuanCafe\QuanLyQuanCafe.csproj", "{9A73D788-3B48-42C9-B31F-D026D75F2517}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "CoffeShop", "CoffeShop\CoffeShop.aiproj", "{0064E19B-16C1-40CC-9592-39AB56EF4F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.All|Any CPU.Build.0 = Release|Any CPU
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A73D788-3B48-42C9-B31F-D026D75F2517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.All|Any CPU.ActiveCfg = DefaultBuild
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.All|Any CPU.Build.0 = DefaultBuild
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.Debug|Any CPU.Build.0 = DefaultBuild
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{0064E19B-16C1-40CC-9592-39AB56EF4F0F}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E22C57-8C6A-41C7-A3B7-31AC99152B5C}
+	EndGlobalSection
+EndGlobal

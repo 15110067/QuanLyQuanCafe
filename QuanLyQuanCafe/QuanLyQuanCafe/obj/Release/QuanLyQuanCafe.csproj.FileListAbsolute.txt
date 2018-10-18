@@ -1,0 +1,26 @@
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmAccountProfile.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmAdmin.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmLogin.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmTableManager.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmAccountProfile.resources
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmAdmin.resources
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmLogin.resources
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.FrmTableManager.resources
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+E:\Project All in One\C#\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb

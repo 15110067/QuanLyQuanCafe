@@ -1,0 +1,13 @@
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmAccountProfile.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmAdmin.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmLogin.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FrmTableManager.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
